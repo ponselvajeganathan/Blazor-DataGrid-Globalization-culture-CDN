@@ -15,15 +15,28 @@ This sample demonstrates how to localize a Syncfusion Blazor DataGrid in a Blazo
 
 ## Prerequisites
 
-* Visual Studio 2022
+* Visual Studio 2022 or Visual Studio Code
 
 ## How to Run the Project
+
+**Visual Studio 2022**
 
 1. Checkout this repository to a local folder.
 2. Open `BlazorServerGlobalziation.sln` in Visual Studio 2022.
 3. Restore NuGet packages by building the solution.
 4. Run the application.
 5. Navigate to the page hosting the Syncfusion DataGrid example and observe the localized Grid UI generated using the configured culture resources.
+
+**Visual Studio Code**
+
+1. Open the repository folder in Visual Studio Code.
+2. Open the integrated terminal.
+3. Navigate to the project directory.
+
+```bash
+dotnet restore
+dotnet run
+```
 
 ## Project Structure
 
