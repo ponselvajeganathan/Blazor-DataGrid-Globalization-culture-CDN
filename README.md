@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to localize a Syncfusion Blazor DataGrid in a Blazor Server application by loading culture resources from the server/CDN and applying a specific culture to the application. The project configures request localization using the `de-DE` culture and registers a custom implementation of `ISyncfusionStringLocalizer` to provide localized resource strings for Syncfusion components. This approach allows Grid UI elements such as filtering, sorting, paging, and other built-in text to be displayed using culture-specific translations.
+This sample demonstrates how to localize a Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in a Blazor Server application by loading culture resources from the server/CDN and applying a specific culture to the application. The project configures request localization using the `de-DE` culture and registers a custom implementation of `ISyncfusionStringLocalizer` to provide localized resource strings for Syncfusion components. This approach allows Grid UI elements such as filtering, sorting, paging, and other built-in text to be displayed using culture-specific translations.
 
 ## Key Features
 
